@@ -2,7 +2,7 @@
 
 ## Description
 
-A tool that can make a maze of folders in Python (about 970,000 nested folder) to store sensitive files.
+A tool that can make a maze of folders in Python (about 97,000 nested folder) to store sensitive files.
 
 _**Made By Omar Menshawy 26/09/2023**_
 
